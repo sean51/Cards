@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ddf4a232f77ff2b4891a3c11e4f110c8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - card: {fileID: 120226, guid: 92580dbcf1c93a04ea361f2cf7d2f6af, type: 2}
+  - spell_card: {fileID: 178108, guid: 0920024c8c414a94194c88c7621eb360, type: 2}
+  - red_energy_card: {fileID: 196168, guid: 393ea977cccdfd64cae2b246eefdbce7, type: 2}
+  - enchantment_card: {fileID: 176382, guid: 5c95437081ac73a40a46e44713a4a985, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

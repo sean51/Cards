@@ -1,0 +1,14 @@
+﻿public class Energy_Card extends Base_Card
+{
+	public var mana_gain: int[] = [0, 0, 0, 0];
+	
+	////////////////////////////////////////////////////////////////////////////////
+	//SETTER FUNCTIONS
+	////////////////////////////////////////////////////////////////////////////////
+
+	function Set_Owner(player: GameObject)
+	{
+		super.Set_Owner(player);
+		owner.SendMessage("Gain_Mana", mana_gain);
+	}
+}

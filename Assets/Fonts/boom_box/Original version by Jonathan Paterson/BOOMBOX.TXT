@@ -1,0 +1,33 @@
+
+                                  Boom Box
+                          -----------------------
+                  Released as freeware in September 1997.
+
+     A few of the letters of this font are based on the labelling of a
+     cassette radio. Boom Box contains two capital alphabets, numbers
+     and basic punctuation, but no accented letters.
+
+     Because of the limitations of Fontographer's automatic hinting,
+     Boom Box may look badly disproportioned on screen, but it prints
+     satisfactorily in display sizes at 300 d.p.i.
+
+     You may use Boom Box without payment, but you may not sell this
+     font or distribute a modified version without my written consent.
+     Boom Box may not be distributed without the accompanying text
+     file.
+
+     To avoid loss of quality, please do not convert this font to other 
+     formats without checking with me first. Boom Box is currently 
+     available in four formats (PostScript and TrueType for both 
+     Macintosh and Windows) and has been tested in all four formats. 
+     If you have received the wrong version, please download the version 
+     you need from:
+
+          http://www.mlink.net/~paterson/jpfonts.htm
+
+          Jonathan Paterson
+          3534 de Lorimier
+          Montreal, Quebec
+          Canada   H2K 3X6
+
+          E-Mail: paterson@mlink.net

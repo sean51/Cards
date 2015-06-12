@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fcbb2017e8bf4b04ab646a22021b4a0f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - additional_card: {instanceID: 0}
+  - hit_sound: {fileID: 8300000, guid: 8b6ed0c7ca085be47a98be558e749997, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

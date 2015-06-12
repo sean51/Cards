@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d32a9516bfbbc044c998e88d44bb6389
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrow_object: {instanceID: 0}
+  - sound01: {fileID: 8300000, guid: 3b7b12c699fc0d542a4b0c8c0776ea9e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
